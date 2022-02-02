@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+
+h1{
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+}
+
+
+.table{
+    width: 100%;
+    border: solid black;
+
+    
+}
+
+/* th, tr, td {
+    border: 2px solid black;
+}
+ */
